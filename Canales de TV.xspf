@@ -14,6 +14,14 @@
    </extension>
   </track>
 
+<track>
+  <title>HBO</title>
+  <location>https://ejemplo.m3u8</location>
+  <image>https://logo.png</image>
+  <category>Cine</category>
+</track>
+
+
   <track>
    <location>https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8</location>
    <title>Multimedios Guadalajara en vivo</title>
