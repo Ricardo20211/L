@@ -6,7 +6,7 @@
   <track>
    <location>http://rlatinop.com:8880/live/kH8yyEfdj4Jf/cafM6hDmpWwT/28251.m3u8</location>
    <title>CL|Mega SD</title>
-   <image>https://upload.wikimedia.org/wikipedia/commons/5/5f/Mega_TV_logo.png</image>
+   <image>https://upload.wikimedia.org/wikipedia/commons/a/aa/Logotipo_de_Mega_%282020-%29.svg</image>
    <duration>14013</duration>
    <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:id>0</vlc:id>
@@ -14,12 +14,7 @@
    </extension>
   </track>
 
-<track>
-  <title>HBO</title>
-  <location>https://ejemplo.m3u8</location>
-  <image>https://logo.png</image>
-  <category>Cine</category>
-</track>
+
 
 
   <track>
