@@ -4,7 +4,7 @@
  <trackList>
 <track>
   <title>HBO</title>
-  <location>https://hsjdududkdjd.elementfx.com/deportivo250.php?stream=tvc_deportes&key=VIDEX.LOL&secreto=XTREAM.VIDEX.LOL</location>
+  <location>https://api.videx.lol/tvc_deportes/index.m3u8?api=7236788a13abcf9a30a0561ad8e1ff930fa2cc48973be56e</location>
   <image>https://images.seeklogo.com/logo-png/36/1/futv-logo-png_seeklogo-368091.png</image>
   <category>Cine</category>
 </track>
