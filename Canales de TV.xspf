@@ -2,11 +2,12 @@
   <trackList>
 
     <track>
-      <title>CL|Mega SD</title>
-      <location>http://redworld.pro:8880/live/superplusrestream/dEH3pv9zLdWu/28251.m3u8</location>
-      <image>https://logo.png</image>
-      <category>Chile</category>
-    </track>
+  <title>CL | MEGA HD</title>
+  <location>http://redworld.pro:8880/live/superplusrestream/dEH3pv9zLdWu/28244.m3u8</location>
+  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
+  <annotation>tvg-id=Mega.cl@SD</annotation>
+  <category>CHILE</category>
+</track>
 
     <track>
       <title>ESPN</title>
