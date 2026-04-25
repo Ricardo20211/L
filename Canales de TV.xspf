@@ -3,10 +3,10 @@
  <title>Canales de TV</title>
  <trackList>
 <track>
-  <title>HBO</title>
-  <location>http://streametx.app/php/proxy_magma.php?r=/stream/401</location>
-  <image>https://images.seeklogo.com/logo-png/36/1/futv-logo-png_seeklogo-368091.png</image>
-  <category>Cine</category>
+  <title>MEGA SD</title>
+  <location>http://redworld.pro:8880/live/superplusrestream/dEH3pv9zLdWu/28251.m3u8</location>
+  <image>https://static-mega.cdn.mdstrm.com/menu/151/151_138_logo-mega_.png</image>
+  <category>Chile</category>
 </track>
 
 
