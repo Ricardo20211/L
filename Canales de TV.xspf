@@ -1,21 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
-  <trackList>
+<trackList>
 
-    <track>
-  <title>CL | MEGA HD</title>
-  <location>http://redworld.pro:8880/live/superplusrestream/dEH3pv9zLdWu/28244.m3u8</location>
-  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
-  <annotation>tvg-id=Mega.cl@SD</annotation>
-  <category>CHILE</category>
+<track tvg-id="canal4.cr">
+<title>Canal 4</title>
+<location>https://stream-url.m3u8</location>
+<image>https://logo.png</image>
+<category>TV</category>
 </track>
 
-    <track>
-  <title>CR - Canal 4</title>
-  <location>http://redworld.pro:8880/live/superplusrestream/dEH3pv9zLdWu/28244.m3u8</location>
-  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
-  <annotation>tvg-id=BBC.World.cy</annotation>
-  <category>Cos</category>
+<track tvg-id="mega.cl">
+<title>Mega</title>
+<location>https://stream-url.m3u8</location>
+<image>https://logo.png</image>
+<category>TV</category>
 </track>
 
-  </trackList>
+</trackList>
 </playlist>
