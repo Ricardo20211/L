@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+  <channel id="Canal4.cr">
+    <display-name>CR - Canal 4</display-name>
+    <icon src="https://iptv-epg.org/logos/Costa_Rica/Canal4.cr.png"/>
+  </channel>
