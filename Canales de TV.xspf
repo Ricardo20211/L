@@ -17,11 +17,11 @@
   <category>Cos</category>
 </track>
 <track>
-<title>BBC News</title>
-<location>https://test-streams.mux.dev/test.m3u8</location>
+<title>CINEMAX cl</title>
+<location>http://179.60.51.134:8888/CINEMAX/index.m3u8</location>
 <image>https://upload.wikimedia.org/bbc.png</image>
-<annotation>tvg-id=bbc.uk</annotation>
-<category>NOTICIAS</category>
+<annotation>tvg-id=Cinemax.cl</annotation>
+<category>Entrenamiento</category>
 </track>
   </trackList>
 </playlist>
