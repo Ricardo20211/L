@@ -10,11 +10,11 @@
 </track>
 
     <track>
-  <title>Band SP</title>
+  <title>CR - Canal 6</title>
   <location>http://redworld.pro:8880/live/superplusrestream/dEH3pv9zLdWu/28244.m3u8</location>
   <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
-  <annotation>tvg-id=TeleMadrid</annotation>
-  <category>Cos</category>
+  <annotation>tvg-id=Canal6.cr</annotation>
+  <category>Costa Rica</category>
 </track>
 <track>
 <title>CINEMAX cl</title>
