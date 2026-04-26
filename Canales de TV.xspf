@@ -4,16 +4,23 @@
 
 <track tvg-id="canal4.cr">
 <title>Canal 4</title>
-<location>https://stream-url.m3u8</location>
-<image>https://logo.png</image>
+<location>https://stream-url-1.m3u8</location>
+<image>https://logo.com/canal4.png</image>
 <category>TV</category>
 </track>
 
 <track tvg-id="mega.cl">
 <title>Mega</title>
-<location>https://stream-url.m3u8</location>
-<image>https://logo.png</image>
-<category>TV</category>
+<location>https://stream-url-2.m3u8</location>
+<image>https://logo.com/mega.png</image>
+<category>chile</category>
+</track>
+
+<track tvg-id="bbc.world">
+<title>BBC World</title>
+<location>https://stream-url-3.m3u8</location>
+<image>https://logo.com/bbc.png</image>
+<category>News</category>
 </track>
 
 </trackList>
