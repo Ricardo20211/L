@@ -16,6 +16,12 @@
   <annotation>tvg-id=BAND.SC</annotation>
   <category>Cos</category>
 </track>
-
+<track>
+<title>BBC News</title>
+<location>https://test-streams.mux.dev/test.m3u8</location>
+<image>https://upload.wikimedia.org/bbc.png</image>
+<annotation>tvg-id=bbc.uk</annotation>
+<category>NOTICIAS</category>
+</track>
   </trackList>
 </playlist>
