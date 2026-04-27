@@ -18,10 +18,12 @@
 </track>
 <track>
 <title>CINEMAX cl</title>
-<location>http://179.60.51.134:8888/CINEMAX/index.m3u8</location>
+<location>https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8</location>
 <image>https://upload.wikimedia.org/bbc.png</image>
 <annotation>tvg-id=Cinemax.cl</annotation>
 <category>Entrenamiento</category>
 </track>
+
+
   </trackList>
 </playlist>
