@@ -24,6 +24,47 @@
 <category>Entrenamiento</category>
 </track>
 
+<track>
+  <title>CR - Canal 6</title>
+  <location>http://200.115.120.1:8000/play/ca126/index.m3u8</location>
+  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
+  <annotation>tvg-id=Canal6.cr</annotation>
+  <category>Costa Rica</category>
+</track>
+
+
+<track>
+  <title>CR - Canal 1</title>
+  <location>http://200.115.120.1:8000/play/ca126/index.m3u8</location>
+  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
+  <annotation>tvg-id=Canal6.cr</annotation>
+  <category>Costa Rica</category>
+</track>
+
+
+<track>
+  <title>CR - Canal 3</title>
+  <location>http://200.115.120.1:8000/play/ca126/index.m3u8</location>
+  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
+  <annotation>tvg-id=Canal6.cr</annotation>
+  <category>Costa Rica</category>
+</track>
+<track>
+  <title>CR - Canal 7</title>
+  <location>http://45.186.106.207:8000/play/a06x</location>
+  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
+  <annotation>tvg-id=Canal6.cr</annotation>
+  <category>Costa Rica</category>
+</track>
+
+<track>
+  <title>CR - Canal 9</title>
+  <location>http://45.186.106.207:8000/play/a06x/index.m3u8</location>
+  <image>http://redworld.pro:8880/images/1ae67befe5da5b3cdd6d0bd76ed1f03f.png</image>
+  <annotation>tvg-id=Canal6.cr</annotation>
+  <category>Costa Rica</category>
+</track>
+
 
   </trackList>
 </playlist>
