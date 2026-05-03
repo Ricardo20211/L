@@ -64,7 +64,20 @@
   <annotation>tvg-id=Canal6.cr</annotation>
   <category>Costa Rica</category>
 </track>
+<track>
+  <title>CL | MEGA HD2</title>
 
+  <location>
+    http://200.229.147.142:8000/play/a03y/index.m3u8|
+    http://astra.fibernetisp.com.co/play/a0j7/index.m3u8|
+    http://server3.com/mega_final.m3u8
+  </location>
+
+  <image>http://redworld.pro:8880/images/logo.png</image>
+
+  <annotation>tvg-id=Canal9.cr</annotation>
+  <category>Costa Rica</category>
+</track>
 
   </trackList>
 </playlist>
