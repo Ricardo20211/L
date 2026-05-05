@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+  <title>Canales de TV</title>
+  <trackList>
+    <track>
+      <location>https://hugh.cdn.rumble.cloud/video/fwe1/c9/s8/2/a/t/0/w/at0wy.aaa.mp4&amp;tmdb=11</location>
+      <title>La noche del demonio: La puerta roja </title>
+      <id>11-c118</id>
+    </track>
+  </trackList>
+</playlist>
