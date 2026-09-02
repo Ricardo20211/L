@@ -1,19 +1,49 @@
-<script id="peliculasDB" type="application/json">
-{
-  "peliculas": [
-    {"id": 123456},
-    {"id": 789012},
-    {"id": 345678}
-  ],
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/"
+          version="1">
 
-  "series": [
-    {"id": 324434},
-    {"id": 279471},
-    {"id": 316544}
-  ],
+  <title>Catálogo Nakama</title>
 
-  "novelas": [
-    {"id": 4629}
-  ]
-}
-</script>
+  <trackList>
+
+    <!-- PELÍCULAS -->
+
+    <track>
+      <id>95</id>
+      <type>movie</type>
+    </track>
+
+    <track>
+      <id>1266127</id>
+      <type>movie</type>
+    </track>
+
+    <track>
+      <id>1226863</id>
+      <type>movie</type>
+    </track>
+
+
+    <!-- SERIES -->
+
+    <track>
+      <id>324434</id>
+      <type>tv</type>
+    </track>
+
+    <track>
+      <id>279471</id>
+      <type>tv</type>
+    </track>
+
+
+    <!-- NOVELAS -->
+
+    <track>
+      <id>4629</id>
+      <type>novelas</type>
+    </track>
+
+  </trackList>
+
+</playlist>
