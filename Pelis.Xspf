@@ -1,0 +1,19 @@
+<script id="peliculasDB" type="application/json">
+{
+  "peliculas": [
+    {"id": 123456},
+    {"id": 789012},
+    {"id": 345678}
+  ],
+
+  "series": [
+    {"id": 324434},
+    {"id": 279471},
+    {"id": 316544}
+  ],
+
+  "novelas": [
+    {"id": 4629}
+  ]
+}
+</script>
